@@ -1,0 +1,106 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Killer",
+      "breed": "chivava",
+      "age": "10"
+    },
+    {
+      "id": 2,
+      "name": "Oscar",
+      "breed": "german shepard",
+      "age": 8
+    },
+    {
+      "id": 3,
+      "name": "Macy",
+      "breed": "vizsla",
+      "age": "7"
+    },
+    {
+      "id": 4,
+      "name": "Annabelle",
+      "breed": "poodle",
+      "age": 4
+    },
+    {
+      "id": 5,
+      "name": "Sandy",
+      "breed": "spitz",
+      "age": 6
+    },
+    {
+      "id": 6,
+      "name": "Lola",
+      "breed": "yorkshire terrier",
+      "age": 11
+    },
+    {
+      "id": 7,
+      "name": "Jazzy",
+      "breed": "west highland white terrier",
+      "age": 1
+    },
+    {
+      "id": 8,
+      "name": "Biggy",
+      "breed": "saint bernard",
+      "age": 13
+    },
+    {
+      "id": 9,
+      "name": "Ubul",
+      "breed": "jack russell terrier",
+      "age": 2
+    },
+    {
+      "id": 10,
+      "name": "Lassie",
+      "breed": "scottish shepherd",
+      "age": 9
+    },
+    {
+      "id": 11,
+      "name": "Vivi",
+      "breed": "foxterrier",
+      "age": "4"
+    },
+    {
+      "name": "Ted",
+      "breed": "golden retriever",
+      "age": "1",
+      "id": 12
+    },
+    {
+      "name": "Terry",
+      "breed": "dobermann",
+      "age": "11",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "name": "Fred",
+      "breed": "greyhound",
+      "age": "15"
+    },
+    {
+      "name": "Trixi",
+      "breed": "pincher",
+      "age": "2",
+      "id": 15
+    },
+    {
+      "name": "Siami",
+      "breed": "si-cu",
+      "age": "10",
+      "id": 16
+    },
+    {
+      "name": "Sissi",
+      "breed": "cocker spaniel",
+      "age": "8",
+      "id": 17
+    }
+  ]
+}

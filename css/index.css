@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: darkcyan
+}
+
+#dogButton {
+    margin-bottom: 20px;
+    background-color: darkseagreen;
+    font-weight: 700;
+    color: darkslategrey;
+}
+
+
